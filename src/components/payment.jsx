@@ -20,7 +20,7 @@ const Payment = () => {
 
   return (
     <div className='min-h-screen flex justify-center items-center bg-[#E5EAF5] px-4 sm:px-6 py-6'>
-      <div className="w-full max-w-[795px] border border-green-500 bg-white rounded-[16px] shadow-md">
+      <div className="w-full max-w-[795px]  bg-white rounded-[16px] shadow-md">
         
         {/* Header */}
         <div className="bg-[#3B4CEE] py-6 px-8 sm:px-10 md:px-20 rounded-t-[16px]">

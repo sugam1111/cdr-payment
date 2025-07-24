@@ -12,7 +12,7 @@ const PaymentValidation = () => {
   };
 
   return (
-    <div className="flex justify-center items-center border border-black bg-[#E5EAF5] w-full">
+    <div className="flex justify-center items-center  bg-[#E5EAF5] w-full">
       <div className="bg-[#FFFFFF] w-full">
         {/* Header */}
         <div className="flex flex-col py-12 px-4 sm:px-6 md:px-10 gap-7">
