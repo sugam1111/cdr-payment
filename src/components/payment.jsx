@@ -63,7 +63,7 @@ const Payment = () => {
           </div>
         )}
 
-        {active === 2 && <PaymentValidation />}
+        {active === 2 && <PaymentValidation amount={amount}/>}
 
         {/* Footer */}
         <div className='flex flex-wrap justify-center items-center gap-4 text-sm text-center text-[#404348] px-4 py-6'>

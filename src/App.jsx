@@ -1,3 +1,4 @@
+import Model from "./components/Model"
 import Payment from "./components/payment"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <div> 
       <Payment />
+      {/* <Model /> */}
     </div>
   )
 }
